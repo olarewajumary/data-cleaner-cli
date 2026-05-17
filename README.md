@@ -1,11 +1,11 @@
-# 🧹 Data Cleaner CLI
+# Data Cleaner CLI
 
 A command-line tool that ingests messy CSV files and outputs a cleaned, 
-analyzed version automatically — built with Python and Pandas.
+analyzed version automatically, built with Python and Pandas.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Detects and removes duplicate rows
 - Fills missing numeric values with column median
@@ -17,7 +17,7 @@ analyzed version automatically — built with Python and Pandas.
 
 ---
 
-## 🛠️ Tech Stack
+## ️Tech Stack
 
 - Python 3.x
 - Pandas
@@ -25,4 +25,4 @@ analyzed version automatically — built with Python and Pandas.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
