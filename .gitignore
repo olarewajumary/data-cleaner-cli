@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm settings
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output folder (optional - remove this line if you want outputs on GitHub)
+output/
